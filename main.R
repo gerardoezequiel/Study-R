@@ -15,3 +15,4 @@ ggplot(mtcars, aes(x = wt)) + geom_histogram(binwidth = 1)
 #plot histogram bin number
 ggplot(mtcars, aes(x = wt)) + geom_histogram(bins = 10)
 
+this is a test
